@@ -240,7 +240,7 @@ Ou seja, inserimos uma regressão (BUG!) no sistema.
 Testes funcionam como uma rede de proteção contra a inserção de bugs.
 
 Encontre e corrija o bug!
-Dica: o bug está no código acima.
+Dica: o bug está no código acima..
 
 #### Faça o commit das alterações
 Com os testes passando, faça o commit com a seguinte mensagem: *Commit 5: Extracting get_frequent_renter_points from Client.statement to Rental*.
